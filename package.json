@@ -1,0 +1,20 @@
+{
+  "name": "toto",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "faunadb": "^2.10.0",
+    "node-fetch": "^2.6.0",
+    "telegraf": "^3.34.1"
+  },
+  "devDependencies": {
+    "netlify-lambda": "^1.6.3"
+  }
+}
