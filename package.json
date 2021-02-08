@@ -12,7 +12,7 @@
     "cheerio": "^1.0.0-rc.3",
     "faunadb": "^2.10.0",
     "node-fetch": "^2.6.0",
-    "telegraf": "^3.34.1"
+    "telegraf": "^4.0.3"
   },
   "devDependencies": {
     "netlify-lambda": "^1.6.3"
