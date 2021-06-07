@@ -15,6 +15,6 @@
     "telegraf": "^3.34.1"
   },
   "devDependencies": {
-    "netlify-lambda": "^1.6.3"
+    "netlify-lambda": "^2.0.8"
   }
 }
